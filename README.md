@@ -3,4 +3,4 @@
 </p>
 <br/>
 
-<h4>Função para enviar as medidas dos sensores ao InfluxDB e à openSenseMap</h4>
+<h4>Função para enviar as medições dos sensores ao InfluxDB e à openSenseMap</h4>
